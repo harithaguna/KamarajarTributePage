@@ -1,7 +1,5 @@
 # Kamarajar Tribute Page
 
-Visit : https://harithaguna.github.io/KamarajarTributePage/
-
 This project is a simple tribute page dedicated to K. Kamarajar, developed using HTML and CSS.
 
 ## Introduction
@@ -14,9 +12,5 @@ Kumaraswami Kamaraj, widely known as K. Kamarajar, was a prominent political lea
 
 - **Informative Sections:** Different sections highlight key aspects of Kamarajar's life, such as his role in the independence movement and contributions to education.
 
-## How to Use
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/kamarajarTributePage.git
+## Demo
+[Click here to see the live demo.](https://harithaguna.github.io/KamarajarTributePage/)
