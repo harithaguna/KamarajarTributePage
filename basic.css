@@ -1,0 +1,20 @@
+.bluebox
+{
+    background-color: blueviolet;
+    height:250px;
+    width:250px;
+    position:absolute;
+    
+    margin:0;
+    top:56px;
+}
+.yellowBox
+{
+    height:50px;
+    width:70px;
+    /* margin-top: 70px; */
+    position:absolute;
+      top:40%;
+    /*left: 30%;  */
+    background-color: rgb(198, 226, 43);
+}
