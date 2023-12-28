@@ -1,6 +1,6 @@
 # Kamarajar Tribute Page
 
-![Kamarajar]
+Visit : https://harithaguna.github.io/KamarajarTributePage/
 
 This project is a simple tribute page dedicated to K. Kamarajar, developed using HTML and CSS.
 
