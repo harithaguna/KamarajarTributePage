@@ -2,11 +2,9 @@ body{
     background:url("img/grungy-white-background-natural-cement-stone-old-texture-as-retro-pattern-wall-conceptual-wall-banner-grunge-material-construction.jpg");
     width:100 vh;
     margin-top: 0;
-    /* padding:10px; */
     font-family:serif;
 }
 .container{
-    /* margin:0; */
     width:80%;
     margin: auto;
     max-width:700px;
@@ -17,7 +15,6 @@ body{
     border-bottom: 15%;
     text-align: center;
     position: fixed;
-    /* margin-bottom: 55%; */
     min-width:700px ;
 }
 ul li{
