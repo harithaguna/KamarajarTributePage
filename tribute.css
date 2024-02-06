@@ -81,3 +81,9 @@ p,li{
     /* margin-bottom: 55%; */
     min-width:700px ;
 }
+@media only screen and (max-width:600px)
+{
+    #navigation{
+        display:none;
+    }
+}
